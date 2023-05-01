@@ -8,8 +8,9 @@ This is a simple Flask application that fetches data from a Databricks Statement
 ## Prerequisites
 Before running the application, you need to:
 
-Have a Databricks workspace and a Databricks token with read access to your data.
-Install the necessary packages using pip:
+1.Have a Databricks workspace and a Databricks token with read access to your data.
+
+2.Install the necessary packages using pip:
 ````bash
 pip install flask plotly requests pandas numpy plotly.io
 ````
